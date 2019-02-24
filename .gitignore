@@ -346,5 +346,8 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-
+bashing/.idea
+bashing/.idea/.idea.bashing
+bashing/bin/
+bashing/obj
 
