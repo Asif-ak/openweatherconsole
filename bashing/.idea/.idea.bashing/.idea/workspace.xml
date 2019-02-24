@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df949fd2-63b2-4dd9-be86-e67a6c64950a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.bashing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.bashing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Helper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Helper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/bashing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/bashing.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/bashing.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/bashing.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/bashing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/bashing.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/bashing.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/bashing.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +15,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="144">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
-                <marker date="1551009461603" expanded="true" signature="6:72" ph="..." />
-                <marker date="1551009461603" expanded="true" signature="114:848" ph="{...}" />
-                <marker date="1551009461603" expanded="true" signature="134:846" ph="{...}" />
-                <marker date="1551009461603" expanded="true" signature="180:831" ph="{...}" />
-                <marker date="1551009461603" expanded="true" signature="536:601" ph="{...}" />
-                <marker date="1551009461603" expanded="true" signature="618:820" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="6:72" ph="..." />
+                <marker date="1551009723149" expanded="true" signature="114:1034" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="134:1032" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="180:1017" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="215:1006" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="599:677" ph="{...}" />
+                <marker date="1551009723149" expanded="true" signature="698:975" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551003295053</updated>
       <workItem from="1551003300459" duration="1646000" />
-      <workItem from="1551006032702" duration="3283000" />
+      <workItem from="1551006032702" duration="3542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4929000" />
+    <option name="totallyTimeSpent" value="5188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,7 +171,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924013" visible="true" weight="0.13996628" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924013" visible="true" weight="0.28499156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3979764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,15 +222,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="144">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
-            <marker date="1551009461603" expanded="true" signature="6:72" ph="..." />
-            <marker date="1551009461603" expanded="true" signature="114:848" ph="{...}" />
-            <marker date="1551009461603" expanded="true" signature="134:846" ph="{...}" />
-            <marker date="1551009461603" expanded="true" signature="180:831" ph="{...}" />
-            <marker date="1551009461603" expanded="true" signature="536:601" ph="{...}" />
-            <marker date="1551009461603" expanded="true" signature="618:820" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="6:72" ph="..." />
+            <marker date="1551009723149" expanded="true" signature="114:1034" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="134:1032" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="180:1017" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="215:1006" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="599:677" ph="{...}" />
+            <marker date="1551009723149" expanded="true" signature="698:975" ph="{...}" />
           </folding>
         </state>
       </provider>
