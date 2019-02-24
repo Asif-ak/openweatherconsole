@@ -11,7 +11,7 @@ namespace bashing
             {
                 StartInfo = new ProcessStartInfo
                 {
-                    FileName = "curl", Arguments = $"/-X /-s \"POST\" \"{command}\"", RedirectStandardOutput = true,
+                    FileName = "curl", Arguments = $"/-X \"POST\" \"{command}\"", RedirectStandardOutput = true,
                     UseShellExecute = false, CreateNoWindow = true
                 }
             };
